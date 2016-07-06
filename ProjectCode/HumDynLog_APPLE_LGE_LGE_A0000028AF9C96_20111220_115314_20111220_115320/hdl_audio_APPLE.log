@@ -1,0 +1,11 @@
+2011/12/20 11:53:15: Created com.humdynlog.AudioWriter instance
+2011/12/20 11:53:15: Audio bufferSize (bytes): 16000
+2011/12/20 11:53:15: Raw streaming: false
+2011/12/20 11:53:18: Frequency band edge 0: 51
+2011/12/20 11:53:18: Frequency band edge 1: 256
+2011/12/20 11:53:18: Frequency band edge 2: 512
+2011/12/20 11:53:18: Frequency band edge 3: 1024
+2011/12/20 11:53:18: Frequency band edge 4: 2048
+2011/12/20 11:53:19: Audio recording started
+2011/12/20 11:53:20: Audio recording try to stop
+2011/12/20 11:53:20: Audio feature stream successfully stopped

@@ -1,0 +1,12 @@
+2011/12/20 11:53:15: Created com.humdynlog.AccelWriter instance
+2011/12/20 11:53:15: Raw streaming: false
+2011/12/20 11:53:15: Accelerometer maximum frame size (samples): 100
+2011/12/20 11:53:15: Accelerometer maximum frame duation (secs): 1.0
+2011/12/20 11:53:15: Frequency band edge 0: 0
+2011/12/20 11:53:15: Frequency band edge 1: 1
+2011/12/20 11:53:15: Frequency band edge 2: 4
+2011/12/20 11:53:15: Frequency band edge 3: 8
+2011/12/20 11:53:15: Frequency band edge 4: 13
+2011/12/20 11:53:19: prevSecs: 0.0
+2011/12/20 11:53:19: Accelerometry recording started
+2011/12/20 11:53:20: Accelerometry feature recording successfully stopped
